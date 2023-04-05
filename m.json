@@ -222,15 +222,6 @@
 		},
 		
 		{
-			"key": "csp_Nkdy",
-			"name": "耐看｜SP",
-			"type": 3,
-			"api": "csp_Nkdy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "BuLei",
 			"name": "布雷｜SP",
 			"type": 3,
@@ -418,15 +409,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "If101",
-			"name": "If101｜墙外",
-			"type": 3,
-			"api": "csp_If101",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "csp_trj",
 			"name": "唐人街｜墙外",
