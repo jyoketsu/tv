@@ -17,16 +17,6 @@
 	"wallpaper": "",
 	"sites": [
 		{
-			"key": "dr_豆瓣",
-			"name": "自用",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"searchable": 2,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./js/js/豆瓣.js"
-		},
-		{
 			"key": "小苹果",
 			"name": "小苹果｜SP",
 			"type": 3,
@@ -76,26 +66,6 @@
 			"filterable": 0
 		},
 		{
-			"key": "Lezhu",
-			"name": "乐猪｜SP",
-			"api": "csp_XBPQ",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "./xBPQ/乐猪影视.json"
-		},
-		{
-			"key": "csp_Nmys",
-			"name": "农民｜SP",
-			"type": 3,
-			"api": "csp_Nmys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XP/nongminyingshi.json"
-		},
-		{
 			"key": "csp_明明影视",
 			"name": "明明｜SP",
 			"type": 3,
@@ -103,17 +73,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "csp_Hlsp",
-			"name": "黑料｜SP",
-			"type": 3,
-			"api": "csp_Hlsp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./Hlsp/黑料.json"
-		},
+		}
 		{
 			"key": "csp_MeiJu69",
 			"name": "美剧｜SP",
@@ -448,66 +408,6 @@
 			"filterable": 0
 		},
 		{
-			"key": "csp_xp_qiumi",
-			"name": "Jrs球迷",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./XPath/dj看球.json"
-		},
-		{
-			"key": "csp_XYQBiu_310直播",
-			"name": "310看球",
-			"type": 3,
-			"api": "csp_XYQBiu",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./XYQBiu/310直播.json"
-		},
-		{
-			"key": "csp_XPath_企鹅体育",
-			"name": "企鹅体育",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./XPath/企鹅直播.json"
-		},
-		{
-			"key": "csp_XYQHiker_虎牙直播",
-			"name": "虎牙直播",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./XYQHiker/虎牙直播.json"
-		},
-		{
-			"key": "csp_XYQBiu_斗鱼",
-			"name": "斗鱼直播",
-			"type": 3,
-			"api": "csp_XYQBiu",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./XYQBiu/斗鱼直播.json"
-		},
-		{
-			"key": "csp_XBPQ_聚短视频",
-			"name": "聚短视频",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./XBPQ/短视频.json"
-		},
-		{
 			"key": "csp_AList",
 			"name": "AList｜网盘",
 			"type": 3,
@@ -583,17 +483,6 @@
 			"filterable": 1,
 			"changeable": 0,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
-		},
-		{
-			"key": "xuexi",
-			"name": "学习园地",
-			"type": "3",
-			"api": "csp_Bili",
-			"searchable": "0",
-			"quickSearch": "0",
-			"filterable": "1",
-			"changeable": 0,
-			"ext": "./json/bili.json"
 		},
 		{
 			"key": "csp_Nbys",
