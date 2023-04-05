@@ -18,7 +18,7 @@
 	"sites": [
 		{
 			"key": "dr_豆瓣",
-			"name": "微信公众号：免软资源",
+			"name": "自用",
 			"type": 3,
 			"api": "./js/lib/drpy2.min.js",
 			"searchable": 2,
