@@ -38,16 +38,6 @@
 			"ext": "https://api-tx.11ty.top"
 		},
 		{
-			"key": "csp_Kunyu77",
-			"name": "七七｜SP",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
-		},
-		{
 			"key": "csp_Czsapp",
 			"name": "厂长｜SP",
 			"type": 3,
@@ -356,42 +346,7 @@
 			"filterable": 1,
 			"ext": "https://www.ysgc.fun"
 		},
-		{
-			"key": "csp_Anime1",
-			"name": "动漫在线｜SP",
-			"type": 3,
-			"api": "csp_Anime1",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "csp_Dm84",
-			"name": "动漫巴士｜SP",
-			"type": 3,
-			"api": "csp_Dm84",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "Ying",
-			"name": "樱花动漫｜SP",
-			"type": 3,
-			"api": "csp_Ying",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "Ysj",
-			"name": "异世界动漫｜SP",
-			"type": 3,
-			"api": "csp_Ysj",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+	
 		{
 			"key": "直播",
 			"name": "🅿电视直播",
@@ -408,16 +363,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "88js",
-			"name": "88看球",
-			"type": 3,
-			"api": "./js/lib/drpy.min.js",
-			"ext": "./js/js/88看球.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
+		
 		
 		
 		{
