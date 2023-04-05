@@ -65,6 +65,7 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
+		
 		{
 			"key": "csp_明明影视",
 			"name": "明明｜SP",
@@ -74,6 +75,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+		
 		{
 			"key": "csp_MeiJu69",
 			"name": "美剧｜SP",
@@ -140,6 +142,42 @@
 			"filterable": 1
 		},
 		{
+			"key": "非凡",
+			"name": "非凡｜SP",
+			"type": 1,
+			"api": "http://www.ffzy.tv/api.php/provide/vod/",
+			"searchable": 1,
+			"filterable": 0,
+			"changeable": 1,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"国产剧",
+				"欧美剧",
+				"香港剧",
+				"韩国剧",
+				"台湾剧",
+				"日本剧",
+				"海外剧",
+				"泰国剧",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+		{
 			"key": "量子",
 			"name": "量子｜SP",
 			"type": 1,
@@ -164,6 +202,7 @@
 				"战争片"
 			]
 		},
+		
 		{
 			"key": "csp_哔滴影视",
 			"name": "哔滴｜SP",
@@ -184,28 +223,8 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "YQ_jk",
-			"name": "极客｜SP",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./FMXBPQ/jike.json",
-			"jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
-		},
-		{
-			"key": "csp_biubiu_骚火电影",
-			"name": "骚火｜SP",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./FMXBPQ/骚火电影.json",
-			"jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
-		},
+		
+		
 		{
 			"key": "csp_sp_龙门影视",
 			"name": "龙门｜SP",
@@ -246,6 +265,7 @@
 			"filterable": 1,
 			"jar": "https://gitee.com/bin-shao/tvbox/raw/master/jar/FTYJAR.jar"
 		},
+		
 		{
 			"key": "csp_Nkdy",
 			"name": "耐看｜SP",
@@ -306,16 +326,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_XYQHiker皮皮鸭",
-			"name": "皮皮鸭｜XH",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XYQHiker/皮皮鸭.json"
-		},
+		
 		{
 			"key": "csp_Xinsj",
 			"name": "新视觉｜SP",
@@ -407,6 +418,8 @@
 			"quickSearch": 0,
 			"filterable": 0
 		},
+		
+		
 		{
 			"key": "csp_AList",
 			"name": "AList｜网盘",
@@ -484,6 +497,7 @@
 			"changeable": 0,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
 		},
+		
 		{
 			"key": "csp_Nbys",
 			"name": "泥巴｜墙外",
