@@ -34,16 +34,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		
-		{
-			"key": "csp_trj",
-			"name": "唐人街｜墙外",
-			"type": 3,
-			"api": "csp_Tangrenjie",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
 		{
 			"key": "csp_YQKAPP",
 			"name": "一起看｜SP",
