@@ -25,6 +25,24 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+		},{
+			"key": "csp_Nbys",
+			"name": "泥巴｜墙外",
+			"type": 3,
+			"api": "csp_NiNi",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		
+		{
+			"key": "csp_trj",
+			"name": "唐人街｜墙外",
+			"type": 3,
+			"api": "csp_Tangrenjie",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_YQKAPP",
@@ -66,16 +84,7 @@
 			"filterable": 1
 		},
 		
-		{
-			"key": "csp_MeiJu69",
-			"name": "美剧｜SP",
-			"type": 3,
-			"api": "csp_MeiJu69",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.69mj.com/"
-		},
+		
 		/*{
 			"key": "csp_Yht",
 			"name": "野荷塘｜SP",
@@ -157,7 +166,6 @@
 				"战争片"
 			]
 		},
-		
 		{
 			"key": "csp_哔滴影视",
 			"name": "哔滴｜SP",
@@ -168,28 +176,6 @@
 			"searchable": 1,
 			"ext": "",
 			"jar": "https://gitee.com/bin-shao/tvbox/raw/master/jar/QJJAR.jar"
-		},
-		{
-			"key": "csp_kuaikan",
-			"name": "快看｜SP",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		
-		
-		{
-			"key": "csp_sp_龙门影视",
-			"name": "龙门｜SP",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod",
-			"jar": "http://bt.hm.iqinu.com:32000/box/sub/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
 		},
 		{
 			"key": "csp_Lib",
@@ -220,17 +206,6 @@
 			"filterable": 1,
 			"jar": "https://gitee.com/bin-shao/tvbox/raw/master/jar/FTYJAR.jar"
 		},
-		
-		{
-			"key": "BuLei",
-			"name": "布雷｜SP",
-			"type": 3,
-			"api": "csp_BuLei",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://v.bulei.cc"
-		},
 		{
 			"key": "csp_Cokemv",
 			"name": "可乐｜SP",
@@ -252,16 +227,6 @@
 			"searchable": 1,
 			"ext": "",
 			"jar": "https://gitee.com/bin-shao/tvbox/raw/master/jar/QJJAR.jar"
-		},
-		{
-			"key": "csp_Lgyy",
-			"name": "蓝光｜SP",
-			"type": 3,
-			"api": "csp_Lgyy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.lgyy.vip"
 		},
 		{
 			"key": "csp_Bttoo",
@@ -398,26 +363,6 @@
 			"filterable": 1,
 			"changeable": 0,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
-		},
-		
-		{
-			"key": "csp_Nbys",
-			"name": "泥巴｜墙外",
-			"type": 3,
-			"api": "csp_NiNi",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		
-		{
-			"key": "csp_trj",
-			"name": "唐人街｜墙外",
-			"type": 3,
-			"api": "csp_Tangrenjie",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "push_agent",
