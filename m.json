@@ -180,42 +180,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "非凡",
-			"name": "非凡｜SP",
-			"type": 1,
-			"api": "http://www.ffzy.tv/api.php/provide/vod/",
-			"searchable": 1,
-			"filterable": 0,
-			"changeable": 1,
-			"categories": [
-				"动作片",
-				"喜剧片",
-				"科幻片",
-				"恐怖片",
-				"爱情片",
-				"剧情片",
-				"战争片",
-				"记录片",
-				"国产剧",
-				"欧美剧",
-				"香港剧",
-				"韩国剧",
-				"台湾剧",
-				"日本剧",
-				"海外剧",
-				"泰国剧",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺"
-			]
-		},
-		{
 			"key": "量子",
 			"name": "量子｜SP",
 			"type": 1,
@@ -239,18 +203,6 @@
 				"剧情片",
 				"战争片"
 			]
-		},
-		{
-			"key": "百影视频",
-			"name": "百影｜SP",
-			"type": 3,
-			"api": "csp_MianHua",
-			"searchable": 1,
-			"playerType": 2,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://47.104.99.175",
-			"jar": "./jar/qj230217.jar"
 		},
 		{
 			"key": "csp_哔滴影视",
@@ -333,17 +285,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"jar": "https://gitee.com/bin-shao/tvbox/raw/master/jar/FTYJAR.jar"
-		},
-		{
-			"key": "csp_AppTT",
-			"name": "图图｜SP",
-			"type": 3,
-			"api": "csp_AppTT",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==",
-			"jar": "./jar/xiaoT.jar"
 		},
 		{
 			"key": "csp_Nkdy",
