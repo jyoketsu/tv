@@ -10,15 +10,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_Nbys",
-			"name": "泥巴",
-			"type": 3,
-			"api": "csp_NiNi",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "js豆瓣",
 			"name": "豆瓣",
 			"type": 3,
