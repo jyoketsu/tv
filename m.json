@@ -102,16 +102,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_555",
-			"name": "三五",
-			"type": 3,
-			"api": "csp_Ys555",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.555dyy1.com"
-		},
-		{
 			"key": "drpy_js_子子影视",
 			"name": "子子",
 			"type": 3,
@@ -567,11 +557,6 @@
 			"name": "Web聚合",
 			"type": 3,
 			"url": "Web"
-		},
-		{
-			"name": "自动解析",
-			"type": 1,
-			"url": "https://api.json.icu/api/?key=aedfdfc26716b0c27916ba5dcdca9ee8&url="
 		},
 		{
 			"name": "手动解析",
