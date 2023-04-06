@@ -335,17 +335,6 @@
 			"ext": "https://yydsys.top/duo/json/饭团HD.json"
 		},
 		{
-			"key": "csp_biubiu_voflix",
-			"name": "Vof",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"playUrl": "https://play.qwertwe.top/xplay/?url=",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/voflix.json"
-		},
-		{
 			"key": "SPQQ",
 			"name": "腾讯",
 			"type": 3,
