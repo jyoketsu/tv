@@ -16,6 +16,15 @@
 	"wallpaper": "",
 	"sites": [
 		{
+			"key": "360_spider",
+			"name": "💫360影视",
+			"type": 3,
+			"api": "csp_SP33",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "小苹果",
 			"name": "小苹果｜SP",
 			"type": 3,
@@ -68,15 +77,6 @@
 			"name": "明明｜SP",
 			"type": 3,
 			"api": "csp_AppMr",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "360_spider",
-			"name": "💫360影视",
-			"type": 3,
-			"api": "csp_SP33",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -343,6 +343,16 @@
 			"ext": "https://www.6080dy2.com"
 		},
 		{
+			"key": "js_B站精简",
+			"name": "🅱️B站精简",
+			"type": 3,
+			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/js/B站精简.js"
+		},
+		{
 			"key": "csp_Zxzj",
 			"name": "在线之家｜SP",
 			"type": 3,
@@ -378,6 +388,46 @@
 			"filterable": 1
 		},
 		{
+			"key": "py_zyy",
+			"name": "🅱️中医药区",
+			"type": 3,
+			"api": "py_zyy",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/Bili/zyy.py"
+		},
+		{
+			"key": "py_Yinl2",
+			"name": "🅱️音乐合集",
+			"type": 3,
+			"api": "py_Yinl2",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/Bili/yinyue.py"
+		},
+		{
+			"key": "py_xiangsh",
+			"name": "🅱️相声小品",
+			"type": 3,
+			"api": "py_xiangsh",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/Bili/xiaopin.py"
+		},
+		{
+			"key": "py_yanchh",
+			"name": "🅱️歌手合集",
+			"type": 3,
+			"api": "py_yanchh",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/Bili/geshou.py"
+		},
+		{
 			"key": "csp_AList",
 			"name": "AList｜网盘",
 			"type": 3,
@@ -398,15 +448,6 @@
 			"filterable": 0,
 			"ext": "8f0b3f0dc1834f309f077ea5549e99a8",
 			"jar": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
-		},
-		{
-			"key": "cc",
-			"name": "请勿相信视频中任何广告",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
 		}
 	],
 	"parses": [
