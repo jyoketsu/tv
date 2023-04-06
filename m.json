@@ -28,7 +28,7 @@
 		},
 		{
 			"key": "直播",
-			"name": "🅿电视直播",
+			"name": "电视直播",
 			"type": 4,
 			"playerType": 1,
 			"api": "http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"
@@ -84,7 +84,7 @@
 		},
 		{
 			"key": "csp_XYQHiker素白白",
-			"name": "🌸素白白┃嗅探",
+			"name": "素白白┃嗅探",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -275,7 +275,7 @@
 		},
 		{
 			"key": "Tutu_spider",
-			"name": "🗺️图图影视",
+			"name": "图图影视",
 			"api": "csp_AppTT",
 			"type": 3,
 			"filterable": 1,
@@ -286,7 +286,7 @@
 		},
 		{
 			"key": "csp_XYQHiker_布蕾",
-			"name": "⚡️布雷[XY]",
+			"name": "布雷[XY]",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -297,7 +297,7 @@
 		},
 		{
 			"key": "csp_XYQHiker_‍优狐",
-			"name": "⛵️优狐影视",
+			"name": "优狐影视",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -317,7 +317,7 @@
 		},
 		{
 			"key": "csp_XBPQ_LIBVIO",
-			"name": "🍲LIB[XB]",
+			"name": "LIB[XB]",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -327,7 +327,7 @@
 		},
 		{
 			"key": "csp_panghu",
-			"name": "🐯胖虎[SP]",
+			"name": "胖虎[SP]",
 			"type": 3,
 			"api": "csp_Panghu",
 			"searchable": 1,
@@ -337,7 +337,7 @@
 		},
 		{
 			"key": "csp_xBPQ_胖虎",
-			"name": "🐯胖虎[XB]",
+			"name": "胖虎[XB]",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -348,7 +348,7 @@
 		},
 		{
 			"key": "csp_XBPQ_饭团",
-			"name": "🍙饭团影视",
+			"name": "饭团影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -358,7 +358,7 @@
 		},
 		{
 			"key": "csp_biubiu_voflix",
-			"name": "🧿Voflix",
+			"name": "Voflix",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playUrl": "https://play.qwertwe.top/xplay/?url=",
@@ -369,7 +369,7 @@
 		},
 		{
 			"key": "SPQQ",
-			"name": "🐧企鹅[官]",
+			"name": "腾讯[官]",
 			"type": 3,
 			"api": "csp_Qtv",
 			"searchable": 1,
@@ -378,7 +378,7 @@
 		},
 		{
 			"key": "SPIQY",
-			"name": "🥝奇异[SP]",
+			"name": "奇异[SP]",
 			"type": 3,
 			"api": "csp_Itv",
 			"searchable": 1,
@@ -387,7 +387,7 @@
 		},
 		{
 			"key": "drpy_js_奇异",
-			"name": "🥝奇异[JS]",
+			"name": "奇异[JS]",
 			"type": 3,
 			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
 			"searchable": 1,
@@ -397,7 +397,7 @@
 		},
 		{
 			"key": "MGT",
-			"name": "🥭芒芒[官]",
+			"name": "芒果[官]",
 			"type": 3,
 			"api": "csp_Mtv",
 			"searchable": 1,
@@ -406,7 +406,7 @@
 		},
 		{
 			"key": "drpy_js_优酷",
-			"name": "👑油库[官]",
+			"name": "优酷[官]",
 			"type": 3,
 			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
 			"searchable": 1,
@@ -416,7 +416,7 @@
 		},
 		{
 			"key": "drpy_js_菜狗",
-			"name": "🐕️菜狗[官]",
+			"name": "菜狗[官]",
 			"type": 3,
 			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
 			"searchable": 1,
@@ -426,7 +426,7 @@
 		},
 		{
 			"key": "zy_新浪资源",
-			"name": "🏄🏻新浪资源",
+			"name": "新浪资源",
 			"type": 1,
 			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
 			"searchable": 1,
@@ -455,7 +455,7 @@
 		},
 		{
 			"key": "api_xml_搜糊资源",
-			"name": "️🦊搜糊影视",
+			"name": "️搜狐影视",
 			"type": 1,
 			"api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
 			"playUrl": "https://jx.xmflv.com/?url=",
@@ -488,7 +488,7 @@
 		},
 		{
 			"key": "csp_Btwtoo",
-			"name": "✌两个BT",
+			"name": "两个BT",
 			"type": 3,
 			"api": "csp_Bttwoo",
 			"searchable": 1,
@@ -497,7 +497,7 @@
 		},
 		{
 			"key": "py_Yinl2",
-			"name": "🅱️音乐合集",
+			"name": "音乐合集",
 			"type": 3,
 			"api": "py_Yinl2",
 			"searchable": 0,
@@ -507,7 +507,7 @@
 		},
 		{
 			"key": "js_B站精简",
-			"name": "🅱️B站精简",
+			"name": "B站精简",
 			"type": 3,
 			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
 			"searchable": 0,
@@ -517,7 +517,7 @@
 		},
 		{
 			"key": "py_zyy",
-			"name": "🅱️中医药区",
+			"name": "中医药区",
 			"type": 3,
 			"api": "py_zyy",
 			"searchable": 0,
@@ -527,7 +527,7 @@
 		},
 		{
 			"key": "py_xiangsh",
-			"name": "🅱️相声小品",
+			"name": "相声小品",
 			"type": 3,
 			"api": "py_xiangsh",
 			"searchable": 0,
