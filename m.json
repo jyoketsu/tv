@@ -203,15 +203,6 @@
 			"ext": "https://www.6080dy2.com"
 		},
 		{
-			"key": "csp_Zxzj",
-			"name": "在线",
-			"type": 3,
-			"api": "csp_Zxzj",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "csp_Ysgc",
 			"name": "工厂",
 			"type": 3,
