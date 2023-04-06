@@ -43,15 +43,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_Nbys",
-			"name": "🛫泥巴┃飞",
-			"type": 3,
-			"api": "csp_NiNi",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "csp_YQKAPP",
 			"name": "一起看｜SP",
