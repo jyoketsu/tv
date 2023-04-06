@@ -10,6 +10,15 @@
 			"filterable": 1
 		},
 		{
+			"key": "csp_Nbys",
+			"name": "泥巴",
+			"type": 3,
+			"api": "csp_NiNi",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "js豆瓣",
 			"name": "豆瓣",
 			"type": 3,
@@ -1188,5 +1197,5 @@
 	],
 	"wallpaper": "https://yydsys.top/bg.php",
 	"warningText": "软件接口免费，切勿付费购买",
-	"spider": "https://jihulab.com/duomv/duo/-/raw/main/spider.jar;md5;74CC2310AAB7D0BCC38DAF2B0C2679C0"
+	"spider": "https://github.com/feiniao113/local/blob/main/spider.jar"
 }
