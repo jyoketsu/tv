@@ -10,15 +10,15 @@
 			"filterable": 1
 		},
 		{
-      "key": "js豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
-    },
+			"key": "js豆瓣",
+			"name": "豆瓣",
+			"type": 3,
+			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
+		},
 		{
 			"key": "直播转点播",
 			"name": "📺︎电视点播",
@@ -51,8 +51,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-			"jar":"https://agit.ai/W-TV/xiaomian/raw/branch/master/jar/xiaomian.jar"
-
 		},
 		{
 			"key": "csp_YQKAPP",
