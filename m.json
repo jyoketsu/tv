@@ -1,5 +1,5 @@
 {
-	"spider":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar;md5;74CC2310AAB7D0BCC38DAF2B0C2679C0",
+	"spider":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar",
 	"lives": [
 		{
 			"name": "live",
