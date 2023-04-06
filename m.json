@@ -524,16 +524,6 @@
 			"ext": "https://yydsys.top/duo/js/B站精简.js"
 		},
 		{
-			"key": "py_meishi",
-			"name": "🅱️美食合集",
-			"type": 3,
-			"api": "py_meishi",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/Bili/美食合集.py"
-		},
-		{
 			"key": "py_zyy",
 			"name": "🅱️中医药区",
 			"type": 3,
@@ -552,37 +542,8 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://yydsys.top/duo/Bili/xiaopin.py"
-		},
-		{
-			"key": "py_xiaoxue",
-			"name": "🅱️小学教育",
-			"type": 3,
-			"api": "py_xiaoxue",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/Bili/xiaoxue.py"
-		},
-		{
-			"key": "py_czxx",
-			"name": "🅱️初中教育",
-			"type": 3,
-			"api": "py_czxx",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/Bili/chuzhong.py"
-		},
-		{
-			"key": "py_gaozxx",
-			"name": "🅱️高中教育",
-			"type": 3,
-			"api": "py_gaozxx",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/Bili/gaozhong.py"
 		}
+		
 	],
 	"lives": [
 		{
