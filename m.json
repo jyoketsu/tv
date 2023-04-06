@@ -1,5 +1,5 @@
 {
-	"spider":"https://agit.ai/W-TV/xiaomian/raw/branch/master/jar/xiaomian.jar",
+	"spider": "https://agit.ai/W-TV/xiaomian/raw/branch/master/jar/xiaomian.jar",
 	"lives": [
 		{
 			"name": "live",
