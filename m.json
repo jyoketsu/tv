@@ -162,16 +162,6 @@
 			"ext": "https://tv.libvio.cc"
 		},
 		{
-			"key": "csp_Vof影视",
-			"name": "VOF",
-			"type": 3,
-			"api": "csp_Voflix",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://gitee.com/bin-shao/tvbox/raw/master/jar/FTYJAR.jar"
-		},
-		{
 			"key": "csp_Cokemv",
 			"name": "可乐",
 			"type": 3,
