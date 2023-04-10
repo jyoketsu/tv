@@ -34,6 +34,67 @@
 			"api": "http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"
 		},
 		{
+			"key": "非凡",
+			"name": "️🐝┃非凡┃采集",
+			"type": 1,
+			"api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/",
+			"playUrl": "json:https://www.itvbox.cc/fflz.php?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"国产剧",
+				"综艺",
+				"动漫",
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"港澳剧",
+				"日剧",
+				"欧美剧",
+				"台湾剧",
+				"泰剧",
+				"韩剧",
+				"纪录片",
+				"动漫电影"
+			]
+		},
+		{
+			"key": "量子资源",
+			"name": "️🐝量子资源〔官釆〕",
+			"type": 1,
+			"api": "http://cj.lziapi.com/api.php/provide/vod/",
+			"playUrl": "json:https://www.itvbox.cc/fflz.php?url=",
+			"m3u8ads": "hd.youyhn.com",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"国产剧",
+				"综艺",
+				"动漫",
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"香港剧",
+				"日剧",
+				"欧美剧",
+				"台湾剧",
+				"泰剧",
+				"韩剧",
+				"纪录片",
+				"动漫电影"
+			]
+		},
+		{
 			"key": "小苹果",
 			"name": "苹果",
 			"type": 3,
@@ -231,17 +292,6 @@
 			"filterable": 1,
 			"changeable": 0,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"
-		},
-		{
-			"key": "Tutu_spider",
-			"name": "图图",
-			"api": "csp_AppTT",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==",
-			"m3u8ads": "hd.youyhn.com"
 		},
 		{
 			"key": "csp_XYQHiker_布蕾",
@@ -483,7 +533,6 @@
 			"filterable": 1,
 			"ext": "https://yydsys.top/duo/Bili/xiaopin.py"
 		}
-		
 	],
 	"lives": [
 		{
@@ -506,12 +555,36 @@
 		}
 	],
 	"parses": [
-        {"name":"解析聚合","type":3,"url":"Demo"},
-        {"name":"Json并发","type":2,"url":"Parallel"},
-        {"name":"Json轮询","type":2,"url":"Sequence"},
-        {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
-        {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
-        {"name":"麒麟","type":0,"url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
+		{
+			"name": "解析聚合",
+			"type": 3,
+			"url": "Demo"
+		},
+		{
+			"name": "Json并发",
+			"type": 2,
+			"url": "Parallel"
+		},
+		{
+			"name": "Json轮询",
+			"type": 2,
+			"url": "Sequence"
+		},
+		{
+			"name": "看看",
+			"type": 0,
+			"url": "https://jx.m3u8.pw/?url="
+		},
+		{
+			"name": "虾米",
+			"type": 0,
+			"url": "https://jx.xmflv.com/?url="
+		},
+		{
+			"name": "麒麟",
+			"type": 0,
+			"url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
+		},
 		{
 			"name": "东",
 			"type": 1,
@@ -527,7 +600,6 @@
 			"type": 0,
 			"url": "https://jx.xmflv.com/?url="
 		},
-		
 		{
 			"name": "北",
 			"type": 0,
@@ -557,8 +629,7 @@
 				]
 			}
 		}
-	
-	],  
+	],
 	"ijk": [
 		{
 			"group": "软解码",
