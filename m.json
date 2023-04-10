@@ -35,7 +35,7 @@
 		},
 		{
 			"key": "非凡",
-			"name": "️🐝┃非凡┃采集",
+			"name": "️非凡",
 			"type": 1,
 			"api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/",
 			"playUrl": "json:https://www.itvbox.cc/fflz.php?url=",
@@ -65,7 +65,7 @@
 		},
 		{
 			"key": "量子资源",
-			"name": "️🐝量子资源〔官釆〕",
+			"name": "️量子",
 			"type": 1,
 			"api": "http://cj.lziapi.com/api.php/provide/vod/",
 			"playUrl": "json:https://www.itvbox.cc/fflz.php?url=",
