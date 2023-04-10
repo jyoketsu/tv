@@ -21,17 +21,10 @@
 		},
 		{
 			"key": "直播转点播",
-			"name": "电视点播",
+			"name": "电视",
 			"type": 3,
 			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/zbzdb.js",
 			"ext": "https://yydsys.top/duo/json/zb.json"
-		},
-		{
-			"key": "直播",
-			"name": "电视点播",
-			"type": 4,
-			"playerType": 1,
-			"api": "http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"
 		},
 		{
 			"key": "非凡",
