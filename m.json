@@ -564,11 +564,6 @@
 			"url": "Sequence"
 		},
 		{
-			"name": "麒麟",
-			"type": 0,
-			"url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
-		},
-		{
 			"name": "东",
 			"type": 1,
 			"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
@@ -577,6 +572,26 @@
 			"name": "南",
 			"type": 0,
 			"url": "https://jx.777jiexi.com/player/?url="
+		},
+		{
+			"name": "某某",
+			"type": 0,
+			"url": "https://jx.bozrc.com:4433/player/?url="
+		},
+		{
+			"name": "麒麟",
+			"type": 0,
+			"url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
+		},
+		{
+			"name": "测试",
+			"type": 1,
+			"url": "http://json.84jia.com/api/?key=JzZOypg2BgyJJOPoJp&url="
+		},
+		{
+			"name": "云星",
+			"type": 1,
+			"url": "https://api.maoyingshi.cc/home/api?type=ys&uid=3063926&key=adefgqtwxzBFILUX48&url="
 		},
 		{
 			"name": "综合1/B站",
@@ -771,7 +786,6 @@
 				]
 			}
 		}
-		
 	],
 	"ijk": [
 		{
