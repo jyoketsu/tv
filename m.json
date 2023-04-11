@@ -589,11 +589,6 @@
 			"showType": 3
 		},
 		{
-			"name": "虾米",
-			"url": "https://jx.xmflv.com/?url=",
-			"showType": 1
-		},
-		{
 			"name": "夜幕",
 			"url": "https://www.yemu.xyz/?url=",
 			"showType": 3
@@ -602,31 +597,6 @@
 			"name": "人人迷",
 			"url": "https://jx.blbo.cc:4433/?url=",
 			"showType": 3
-		},
-		{
-			"name": "playerjy/B站",
-			"url": "https://jx.playerjy.com/?url=",
-			"showType": 3
-		},
-		{
-			"name": "BL",
-			"url": "https://vip.bljiex.com/?v=",
-			"showType": 1
-		},
-		{
-			"name": "MAO",
-			"url": "https://www.mtosz.com/m3u8.php?url=",
-			"showType": 1
-		},
-		{
-			"name": "云析",
-			"url": "https://jx.yparse.com/index.php?url=",
-			"mobile": 0
-		},
-		{
-			"name": "bf",
-			"type": 1,
-			"url": "https://bf.cpvps.cn/?url="
 		},
 		{
 			"name": "布雷/芒",
