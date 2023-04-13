@@ -360,20 +360,10 @@
       "filterable": 1,
       "ext": "https://shangjihuoke.com/api.php/tv.vod"
     }, 
-  {
-      "key": "csp_appys_天空",
-      "name": "天空app",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://tkznp.com/xgapp.php/v1"
-    }, 
 
     {
       "key": "csp_appys_萌蛋蛋",
-      "name": "萌蛋蛋",
+      "name": "萌蛋",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -383,7 +373,7 @@
     }, 
     {
       "key": "csp_appys_2号币",
-      "name": "2号币神马",
+      "name": "2号币",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
