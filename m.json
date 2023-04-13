@@ -231,6 +231,114 @@
 				"记录片"
 			]
 		},
+		  {
+            "key": "摩羯采集",
+            "name": "摩羯",
+            "type": 1,
+            "api": "https://www.2248.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "处女采集",
+            "name": "处女",
+            "type": 1,
+            "api": "https://www.ah121.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "巨蟹采集",
+            "name": "巨蟹",
+            "type": 1,
+            "api": "https://www.1858.org/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "狮子采集",
+            "name": "狮子",
+            "type": 1,
+            "api": "https://www.vuituoi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "天蝎采集",
+            "name": "天蝎",
+            "type": 1,
+            "api": "https://www.163kt.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "天秤采集",
+            "name": "天秤",
+            "type": 1,
+            "api": "https://www.shuangcenmaoyi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "射手采集",
+            "name": "射手",
+            "type": 1,
+            "api": "https://www.teetk.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+ {
+            "key": "双子采集",
+            "name": "双子",
+            "type": 1,
+            "api": "https://www.ngukiem.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "金牛采集",
+            "name": "金牛",
+            "type": 1,
+            "api": "https://www.szx98.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "白羊采集",
+            "name": "白羊",
+            "type": 1,
+            "api": "https://www.zgdfonline.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "双鱼采集",
+            "name": "双鱼",
+            "type": 1,
+            "api": "https://www.jzcw168.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "水瓶采集",
+            "name": "水瓶",
+            "type": 1,
+            "api": "https://www.asgcn.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },                       
 		{
 			"key": "csp_Czsapp",
 			"name": "厂长",
