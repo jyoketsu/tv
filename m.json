@@ -136,7 +136,7 @@
 			"type": 1,
 			"api": "https://cms.json.vin/api.php/provide/vod/from/qq/?ac=list",
 			"searchable": 1,
-			"playUrl": "https://jx.jsonplayer.com/player/?url=",
+			"playUrl": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=",
 			"quickSearch": 1,
 			"categories": [
 				"国产剧",
