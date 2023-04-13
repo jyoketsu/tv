@@ -338,7 +338,58 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },                       
+        },   
+		{
+      "key": "csp_appys_大猫",
+      "name": "大猫",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://app.ishen520.com/api.php/v1.vod"
+    }, 
+    
+    {
+      "key": "csp_appys_段友",
+      "name": "段友",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://shangjihuoke.com/api.php/tv.vod"
+    }, 
+  {
+      "key": "csp_appys_天空",
+      "name": "天空app",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://tkznp.com/xgapp.php/v1"
+    }, 
+
+    {
+      "key": "csp_appys_萌蛋蛋",
+      "name": "萌蛋蛋",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://app.mengdandan.com/xgapp.php/v1/"
+    }, 
+    {
+      "key": "csp_appys_2号币",
+      "name": "2号币神马",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://phoebe.cf/api.php/iptv/vod/"}, 
 		{
 			"key": "csp_Czsapp",
 			"name": "厂长",
