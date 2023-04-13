@@ -99,7 +99,7 @@
 		},
 		{
 			"key": "zy_lziapi",
-			"name": "影视┃速优",
+			"name": "速优",
 			"type": 1,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
 			"searchable": 1,
@@ -132,11 +132,11 @@
 		},
 		{
 			"key": "zy_乱舞1",
-			"name": "影视┃小Q",
+			"name": "小Q",
 			"type": 1,
 			"api": "https://cms.json.vin/api.php/provide/vod/from/qq/?ac=list",
 			"searchable": 1,
-			"playUrl": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+			"playUrl": "https://jx.jsonplayer.com/player/?url=",
 			"quickSearch": 1,
 			"categories": [
 				"国产剧",
@@ -165,7 +165,7 @@
 		},
 		{
 			"key": "zy_乱舞2",
-			"name": "影视┃小果",
+			"name": "小果",
 			"type": 1,
 			"api": "https://cms.json.vin/api.php/provide/vod/from/mgtv/?ac=list",
 			"searchable": 1,
@@ -198,7 +198,7 @@
 		},
 		{
 			"key": "zy_乱舞4",
-			"name": "影视┃小酷",
+			"name": "小酷",
 			"type": 1,
 			"api": "https://cms.json.vin/api.php/provide/vod/from/youku/?ac=list",
 			"searchable": 1,
@@ -231,7 +231,7 @@
 		},
 		{
 			"key": "zy_乱舞3",
-			"name": "影视┃小狗",
+			"name": "小狗",
 			"type": 1,
 			"api": "https://cms.json.vin/api.php/provide/vod/from/sohu/?ac=list",
 			"searchable": 1,
@@ -264,7 +264,7 @@
 		},
 		{
 			"key": "zy_乱舞5",
-			"name": "影视┃小乐",
+			"name": "小乐",
 			"type": 1,
 			"api": "https://cms.json.vin/api.php/provide/vod/from/pptv/?ac=list",
 			"searchable": 1,
