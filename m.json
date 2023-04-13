@@ -130,7 +130,7 @@
 				"记录片"
 			]
 		},
-		{
+		/*{
 			"key": "zy_乱舞1",
 			"name": "小Q",
 			"type": 1,
@@ -162,7 +162,7 @@
 				"冒险片",
 				"记录片"
 			]
-		},
+		},*/
 		{
 			"key": "zy_乱舞2",
 			"name": "小果",
@@ -268,7 +268,7 @@
 			"type": 1,
 			"api": "https://cms.json.vin/api.php/provide/vod/from/pptv/?ac=list",
 			"searchable": 1,
-			"playUrl": "https://vip.lianfaka.com/vip/?url=",
+			
 			"quickSearch": 1,
 			"categories": [
 				"电影",
