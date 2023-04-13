@@ -130,39 +130,6 @@
 				"记录片"
 			]
 		},
-		/*{
-			"key": "zy_乱舞1",
-			"name": "小Q",
-			"type": 1,
-			"api": "https://cms.json.vin/api.php/provide/vod/from/qq/?ac=list",
-			"searchable": 1,
-			"playUrl": "https://jx.jsonplayer.com/player/?url=",
-			"quickSearch": 1,
-			"categories": [
-				"国产剧",
-				"韩国剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"电影",
-				"连续剧",
-				"综艺",
-				"动漫",
-				"动作片",
-				"科幻片",
-				"战争片",
-				"奇幻片",
-				"喜剧片",
-				"爱情片",
-				"恐怖片",
-				"犯罪片",
-				"悬疑片",
-				"惊悚片",
-				"剧情片",
-				"冒险片",
-				"记录片"
-			]
-		},*/
 		{
 			"key": "zy_乱舞2",
 			"name": "小果",
