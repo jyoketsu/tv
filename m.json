@@ -822,11 +822,11 @@
 			"type": 1,
 			"url": "http://110.42.2.115:880/analysis/json/?uid=2412&my=bceklrstvGLNUWY456&url="
 		},
-		{
+		/*{
 			"name": "测试解析1",
 			"type": 1,
-			"url": "http://119.91.132.205/vv_api.php?url="
-		},
+			"url": ""
+		},*/
 		
 		{
 			"name": "云星",
