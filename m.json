@@ -818,6 +818,12 @@
 			"url": "http://json.84jia.com/api/?key=JzZOypg2BgyJJOPoJp&url="
 		},
 		{
+			"name": "测试解析",
+			"type": 1,
+			"url": "http://110.42.2.115:880/analysis/json/?uid=2412&my=bceklrstvGLNUWY456&url="
+		},
+		
+		{
 			"name": "云星",
 			"type": 1,
 			"url": "https://api.maoyingshi.cc/home/api?type=ys&uid=3063926&key=adefgqtwxzBFILUX48&url="
