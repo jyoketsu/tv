@@ -813,11 +813,6 @@
 			"url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
 		},
 		{
-			"name": "测试",
-			"type": 1,
-			"url": "http://json.84jia.com/api/?key=JzZOypg2BgyJJOPoJp&url="
-		},
-		{
 			"name": "测试解析",
 			"type": 1,
 			"url": "http://110.42.2.115:880/analysis/json/?uid=2412&my=bceklrstvGLNUWY456&url="
