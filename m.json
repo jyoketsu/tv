@@ -56,8 +56,8 @@
 				"动漫电影"
 			]
 		},
-		{
-			"name": "猫影视json③",
+		{       "key": "猫影视json③",
+			"name": "猫影视",
 			"type": 1,
 			"url": "https://www.itvbox.cc/bhc.php?url=",
 			"ext": {
