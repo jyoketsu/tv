@@ -231,101 +231,100 @@
 				"记录片"
 			]
 		},
-		  {
-            "key": "摩羯采集",
-            "name": "摩羯",
-            "type": 1,
-            "api": "https://www.2248.tv/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "处女采集",
-            "name": "处女",
-            "type": 1,
-            "api": "https://www.ah121.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "巨蟹采集",
-            "name": "巨蟹",
-            "type": 1,
-            "api": "https://www.1858.org/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "狮子采集",
-            "name": "狮子",
-            "type": 1,
-            "api": "https://www.vuituoi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "天蝎采集",
-            "name": "天蝎",
-            "type": 1,
-            "api": "https://www.163kt.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "天秤采集",
-            "name": "天秤",
-            "type": 1,
-            "api": "https://www.shuangcenmaoyi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
 		{
-      "key": "csp_appys_大猫",
-      "name": "大猫",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://app.ishen520.com/api.php/v1.vod"
-    }, 
-    
-    {
-      "key": "csp_appys_段友",
-      "name": "段友",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://shangjihuoke.com/api.php/tv.vod"
-    }, 
-
-    {
-      "key": "csp_appys_萌蛋蛋",
-      "name": "萌蛋",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://app.mengdandan.com/xgapp.php/v1/"
-    }, 
-    {
-      "key": "csp_appys_2号币",
-      "name": "2号币",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://phoebe.cf/api.php/iptv/vod/"}, 
+			"key": "摩羯采集",
+			"name": "摩羯",
+			"type": 1,
+			"api": "https://www.2248.tv/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		},
+		{
+			"key": "处女采集",
+			"name": "处女",
+			"type": 1,
+			"api": "https://www.ah121.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		},
+		{
+			"key": "巨蟹采集",
+			"name": "巨蟹",
+			"type": 1,
+			"api": "https://www.1858.org/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		},
+		{
+			"key": "狮子采集",
+			"name": "狮子",
+			"type": 1,
+			"api": "https://www.vuituoi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		},
+		{
+			"key": "天蝎采集",
+			"name": "天蝎",
+			"type": 1,
+			"api": "https://www.163kt.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		},
+		{
+			"key": "天秤采集",
+			"name": "天秤",
+			"type": 1,
+			"api": "https://www.shuangcenmaoyi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		},
+		{
+			"key": "csp_appys_大猫",
+			"name": "大猫",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://app.ishen520.com/api.php/v1.vod"
+		},
+		{
+			"key": "csp_appys_段友",
+			"name": "段友",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://shangjihuoke.com/api.php/tv.vod"
+		},
+		{
+			"key": "csp_appys_萌蛋蛋",
+			"name": "萌蛋",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://app.mengdandan.com/xgapp.php/v1/"
+		},
+		{
+			"key": "csp_appys_2号币",
+			"name": "2号币",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://phoebe.cf/api.php/iptv/vod/"
+		},
 		{
 			"key": "csp_Czsapp",
 			"name": "厂长",
@@ -793,6 +792,54 @@
 			"url": "Sequence"
 		},
 		{
+			"name": "自动嗅探",
+			"type": 3,
+			"url": "Web",
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+			}
+		},
+		{
+			"name": "智能探测CM",
+			"type": 0,
+			"url": "https://jxdp.codermart.net/?url="
+		},
+		{
+			"name": "智能探测QL",
+			"type": 0,
+			"url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url="
+		},
+		{
+			"name": "虾米",
+			"type": 0,
+			"url": "https://jx.xmflv.com/?url="
+		},
+		{
+			"name": "OK解析",
+			"type": 0,
+			"url": "https://okjx.cc/?url="
+		},
+		{
+			"name": "77解析",
+			"type": 0,
+			"url": "https://jx.777jiexi.com/player/?url="
+		},
+		{
+			"name": "诺讯",
+			"type": 0,
+			"url": "https://www.nxflv.com/?url="
+		},
+		{
+			"name": "CK",
+			"type": 0,
+			"url": "https://www.ckplayer.vip/jiexi/?url="
+		},
+		{
+			"name": "ckmov",
+			"type": 0,
+			"url": "https://www.ckmov.vip/api.php?url="
+		},
+		{
 			"name": "东",
 			"type": 1,
 			"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
@@ -817,12 +864,6 @@
 			"type": 1,
 			"url": "http://110.42.2.115:880/analysis/json/?uid=2412&my=bceklrstvGLNUWY456&url="
 		},
-		/*{
-			"name": "测试解析1",
-			"type": 1,
-			"url": ""
-		},*/
-		
 		{
 			"name": "云星",
 			"type": 1,
